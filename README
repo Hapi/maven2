@@ -1,0 +1,5 @@
+Maven2 repository for Hapi's library artifacts.
+
+Maven2 repository URL: http://hapi.github.com/maven2
+
+This project will not contain anything execpt this README file and .gitignore.
