@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.hapiware.agent</groupId>
+  <artifactId>field-init-agent-delegate</artifactId>
+  <version>1.0.0</version>
+  <versioning>
+    <versions>
+      <version>1.0.0</version>
+    </versions>
+    <lastUpdated>20110216182233</lastUpdated>
+  </versioning>
+</metadata>
